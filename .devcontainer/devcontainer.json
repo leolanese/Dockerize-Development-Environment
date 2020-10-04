@@ -1,5 +1,5 @@
 {
-  "name": "JS ENV",
+  "name": "JS Developer Environement",
   "dockerFile": "Dockerfile",
   "appPort": [3000],
   "runArgs": ["-u", "node"],
@@ -8,5 +8,23 @@
     "terminal.integrated.shell.linux": "/bin/bash"
   },
   "postCreateCommand": "npm i",
-  "extensions": ["sdras.night-owl", "dbaumer.vscode-eslint", "esbenp.prettier-vscode"]
+  "extensions": [
+				"sdras.night-owl",
+				"dbaumer.vscode-eslint",
+				"esbenp.prettier-vscode",
+				"ahmadawais.shades-of-purple",
+				"wayou.vscode-todo-highlight",
+				"emmanuelbeziat.vscode-great-icons",
+				"johnpapa.winteriscoming",
+				"salbert.comment-ts",
+				"dbaeumer.vscode-eslint",
+				"waderyan.gitblame",
+				"ms-kubernetes-tools.vscode-kubernetes-tools",
+				"ms-vsliveshare.vsliveshare",
+				"darkriszty.markdown-table-prettify",
+				"jeff-hykin.polacode-2019",
+				"robinbentley.sass-indented",
+				"dsznajder.es7-react-js-snippets",
+				"simonsiefke.prettier-vscode"
+	]
 }
