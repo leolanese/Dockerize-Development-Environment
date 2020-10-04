@@ -1,0 +1,12 @@
+{
+  "name": "JS ENV",
+  "dockerFile": "Dockerfile",
+  "appPort": [3000],
+  "runArgs": ["-u", "node"],
+  "settings": {
+    "workbench.colotTheme": "Night Owl",
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "postCreateCommand": "npm i",
+  "extensions": ["sdras.night-owl", "dbaumer.vscode-eslint", "esbenp.prettier-vscode"]
+}
