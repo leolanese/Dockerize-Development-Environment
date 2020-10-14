@@ -42,8 +42,8 @@ https://code.visualstudio.com/docs/remote/containers#_devcontainerjson-reference
      'Building Inspiring Responsive Reactive Solutions',<br>
      'London, UK' }<br>
 
-##### :diamond_shape_with_a_dot_inside: Twitter <a href="https://twitter.com/LeoLaneseltd" target="_blank">@LeoLaneseltd</a>
-##### :diamond_shape_with_a_dot_inside: Portfolio <a href="https://www.leolanese.com" target="_blank">www.leolanese.com</a>
-##### :diamond_shape_with_a_dot_inside: DEV.to <a href="https://www.dev.to/leolanese" target="_blank">dev.to/leolanese</a>
-##### :diamond_shape_with_a_dot_inside: Blog: <a href="https://www.leolanese.com/blog" target="_blank">leolanese.com/blog</a>
-##### :diamond_shape_with_a_dot_inside: Questions / Suggestion / Recommendation: developer@leolanese.com
+##### :diamond_shape_with_a_dot_inside: - Twitter <a href="https://twitter.com/LeoLaneseltd" target="_blank">@LeoLaneseltd</a>
+##### :diamond_shape_with_a_dot_inside: - Portfolio <a href="https://www.leolanese.com" target="_blank">www.leolanese.com</a>
+##### :diamond_shape_with_a_dot_inside: - DEV.to <a href="https://www.dev.to/leolanese" target="_blank">dev.to/leolanese</a>
+##### :diamond_shape_with_a_dot_inside: - Blog: <a href="https://www.leolanese.com/blog" target="_blank">leolanese.com/blog</a>
+##### :diamond_shape_with_a_dot_inside: - Questions / Suggestion / Recommendation: developer@leolanese.com
