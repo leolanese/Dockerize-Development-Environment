@@ -37,9 +37,9 @@ https://code.visualstudio.com/docs/remote/containers#_devcontainerjson-reference
 ---
 ### :100: <i>Thanks!</i>
 
->  { 'Leo Lanese',<br>
+>  =={ I’m 'Leo Lanese',<br>
      'Building Inspiring Responsive Reactive Solutions',<br>
-     'London, UK' }<br>
+     'London, UK' }==<br>
 
 ##### Twitter <a href="https://twitter.com/LeoLaneseltd" target="_blank">@LeoLaneseltd</a>
 ##### 🔗 Portfolio <a href="https://www.leolanese.com" target="_blank">www.leolanese.com</a>
