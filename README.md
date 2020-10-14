@@ -37,7 +37,7 @@ https://code.visualstudio.com/docs/remote/containers#_devcontainerjson-reference
 ---
 ### :100: <i>Thanks!</i>
 
->  =={ I’m 'Leo Lanese',<br>
+ =={ I’m 'Leo Lanese',<br>
      'Building Inspiring Responsive Reactive Solutions',<br>
      'London, UK' }==<br>
 
