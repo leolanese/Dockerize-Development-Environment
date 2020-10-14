@@ -41,7 +41,7 @@ https://code.visualstudio.com/docs/remote/containers#_devcontainerjson-reference
      'Building Inspiring Responsive Reactive Solutions',<br>
      'London, UK' }<br>
 
-##### 🔗 Twitter <a href="https://twitter.com/LeoLaneseltd" target="_blank">@LeoLaneseltd</a>
+##### Twitter <a href="https://twitter.com/LeoLaneseltd" target="_blank">@LeoLaneseltd</a>
 ##### 🔗 Portfolio <a href="https://www.leolanese.com" target="_blank">www.leolanese.com</a>
 ##### 🔗 DEV.to <a href="https://www.dev.to/leolanese" target="_blank">dev.to/leolanese</a>
 ##### 🔗 Blog: <a href="https://www.leolanese.com/blog" target="_blank">leolanese.com/blog</a>
