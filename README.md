@@ -1,6 +1,6 @@
 # Dockerize Development Environment
 
-Docker is an open platform for developing, shipping, and running applications. This enables you to separate applications from the infrastructure, making the software delivery much faster. It has become a widely used production standard and in order to easily deploy your Angular app to any of the cloud providers, you should dockerize it.
+Docker is an `open platform for developing, shipping, and running applications`. This enables you to separate applications from the infrastructure, making the software delivery much faster. It has become a widely used production standard and in order to easily deploy your Angular app to any of the cloud providers, you should dockerize it.
 
 Let's combines `Visual Studio Code` with `Docker` to imitate our production settings and create consistency across different environments.
 
