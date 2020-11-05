@@ -36,11 +36,13 @@ https://code.visualstudio.com/docs/remote/containers#_devcontainerjson-reference
 
 ---
 ### :100: <i>Thanks!</i>
+#### Let's stay in touch!
 
 > { I'm `Leo Lanese`,<br>
    'Building Inspiring Responsive `Reactive Solutions`',<br>
    '`London, UK`' }<br>
 
+##### :radio_button: linkedin: <a href="https://www.linkedin.com/in/leolanese/" target="_blank">@LeoLaneseltd</a>
 ##### :radio_button: Twitter: <a href="https://twitter.com/LeoLaneseltd" target="_blank">@LeoLaneseltd</a>
 ##### :radio_button: Portfolio: <a href="https://www.leolanese.com" target="_blank">www.leolanese.com</a>
 ##### :radio_button: DEV.to: <a href="https://www.dev.to/leolanese" target="_blank">dev.to/leolanese</a>
